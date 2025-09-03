@@ -1,68 +1,70 @@
-# 👋 Hi there, I'm Khayal Aghazada!
+# Khayal Aghazada — ML/CV Engineer · Front-End Developer
 
-I’m a passionate and self-motivated developer focused on creating practical and impactful technology. My experience spans **front-end development**, **Android apps**, **API integration**, and **back-end systems** using technologies like **Firebase** and **Oracle SQL**. I'm especially enthusiastic about **Computer Vision** and **Artificial Intelligence**, exploring the power of **PyTorch**, **TensorFlow**, and other modern ML frameworks.
+I build end-to-end computer-vision systems in Python and the UIs that operate them.  
+PyTorch/ONNX/OpenCV for training and real-time inference. React/JS for clean, responsive front ends.
 
----
-
-## 💻 Technical Skills
-
-### 🔧 Programming Languages
-- **Python**: OOP, data structures, algorithms, automation, unit testing
-- **Java**: Android app development, multithreading, GUI
-- **JavaScript**: ES6+, dynamic front-end logic
-- **SQL**: Oracle SQL, data modeling, queries
-
-### 🌐 Web Development
-- HTML5, CSS3, JavaScript
-- UX/UI Design
-- React.js
-- Flask, Django
-- API integration (RESTful)
-- Tailwind CSS
-- Git, GitHub
-
-### 📱 Android Development
-- Java & XML
-- UX/UI Design
-- Android SDK, Android Studio
-- SQLite, Room, SharedPreferences
-- Firebase integration
-- RecyclerView, ViewPager, CardView
-
-### 🤖 AI & Computer Vision
-- Python libraries: NumPy, Pandas, Matplotlib
-- Machine Learning: scikit-learn, **PyTorch**, TensorFlow
-- Computer vision projects with OpenCV
-- Model training and evaluation
+[Email](mailto:khayal.aghazada.x@gmail.com) · [GitHub](https://github.com/Khayal-Aghazada) · [LinkedIn](#)
 
 ---
 
-## 🧠 Soft Skills
-- Problem-solving & critical thinking
-- Time management & adaptability
-- Communication & active listening
-- Leadership
-- Fast learner & open to collaboration
+## Focus
+- **Computer Vision & ML:** dataset curation, training/eval (AUC/AUPRC), ONNX/real-time inference, FastAPI services.
+- **Front End:** React apps, API integration, routing/forms, accessible responsive UI, basic testing and CI.
 
 ---
 
-## 🚀 Featured Projects
-A few highlights from my GitHub:
-
-- 🧠 **Fatigue Detection System** – Eye tracking and head motion detection using OpenCV
-- 🚗 **Ride Booking Web App** – Full-stack web app with Flask, Firebase, and RESTful API integration
-- 🤖 **Telegram Bot** – Functional bots using Python for automation and user interaction
-- 🎬 **Movies Website** – Front-end responsive project using HTML/CSS/JavaScript
-- ♟️ **Chess Game** – Java-based desktop game with GUI
-- 💼 **Portfolio Website** – Responsive personal site showcasing my skills and certifications
-
-Explore these and more in my pinned repositories!
+## Tech Stack
+**Python:** PyTorch · ONNX Runtime · OpenCV · scikit-learn · NumPy · Pandas  
+**Serving/Tools:** FastAPI · Flask · Docker · W&B · pytest · pre-commit · Jupyter · Git/GitHub  
+**Front End:** React · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind (basics) · React Router  
+**Data & Formats:** REST · JSON · CSV/Parquet  
+**DevOps basics:** GitHub Actions (lint/test), GitHub Pages (demos)
 
 ---
 
-## 📫 Let's Connect!
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Khayal-Aghazada)
+## Selected Projects
 
-📧 **Email:** khayal.aghazada.x@gmail.com
+### Fatigue-Detection-System · Computer Vision
+- Real-time pipeline with OpenCV/MediaPipe; computes eye-aspect ratio and head pose; raises alerts.  
+- CLI for webcam/video, thresholds, and logging; clear README and demo assets.  
+Repo: https://github.com/Khayal-Aghazada/Fatigue-Detection-System
 
-I’m open to collaborations, freelance work, and exciting tech opportunities. Let’s build something great together!
+### Handwritten-Digit-Recognition · PyTorch
+- CNN training and inference with dataset loaders, augmentation, and evaluation metrics.  
+- Saves best checkpoint; simple `predict` script and reproducible project layout.  
+Repo: https://github.com/Khayal-Aghazada/handwritten-digit-recognition-model
+
+### Django Chat Site · Messaging
+- Auth, rooms, and live messaging via Django Channels; mobile-friendly UI.  
+- Ready to extend with Redis channel layer for production.  
+Repo: https://github.com/Khayal-Aghazada/django-chat-site
+
+### Bolt App · Full-stack Sample
+- Account CRUD with protected routes; REST to a small Python backend.  
+- Responsive UI, validated forms, and error handling; documented setup/run.  
+Repo: https://github.com/Khayal-Aghazada/bolt-app
+
+### Meal Recipe Site · Front-End
+- Semantic HTML/CSS layout with responsive design and print stylesheet.  
+- Deployed on GitHub Pages.  
+Live: https://khayal-aghazada.github.io/mealReceipt-website-template/  
+Repo: https://github.com/Khayal-Aghazada/mealReceipt-website-template
+
+---
+
+## How I work
+- Reproducibility first: configs, fixed seeds, clear READMEs, and CLI entry points (train/eval/infer).  
+- Quality gates: lint/format and tests on push (GitHub Actions).  
+- UX discipline: accessible components, responsive layouts, API error handling, and loading states.
+
+---
+
+## Currently exploring
+- YOLO-based people counting with lightweight tracking and line/zone crossing.  
+- ONNX export and performance profiling across CPU/GPU targets.
+
+---
+
+## Contact
+- **Email:** khayal.aghazada.x@gmail.com  
+- **Location:** Baku, Azerbaijan · UTC+03

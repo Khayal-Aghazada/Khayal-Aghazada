@@ -53,15 +53,18 @@ Repo: https://github.com/Khayal-Aghazada/mealReceipt-website-template
 ---
 
 ## How I work
-- Reproducibility first: configs, fixed seeds, clear READMEs, and CLI entry points (train/eval/infer).  
-- Quality gates: lint/format and tests on push (GitHub Actions).  
-- UX discipline: accessible components, responsive layouts, API error handling, and loading states.
+- Module-first design: small, reusable Python/JS packages with clear interfaces (no copy-paste).
+- Reproducibility: configs, fixed seeds, CLI entry points (train/eval/infer), deterministic builds.
+- Quality gates: lint/format and tests on push (GitHub Actions); type hints where useful.
+- UX discipline: accessible, responsive UIs with proper loading/error states and API retries.
+
 
 ---
 
-## Currently exploring
-- YOLO-based people counting with lightweight tracking and line/zone crossing.  
-- ONNX export and performance profiling across CPU/GPU targets.
+## Currently working
+- Modularising computer-vision tools into `cv_lib` (detection, embeddings, indexing, I/O, drawing).
+- Targets: stable APIs, unit tests + CI, FastAPI endpoints, ONNX Runtime (CPU/GPU), docs, and pip packaging.
+
 
 ---
 

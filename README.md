@@ -3,7 +3,7 @@
 I build end-to-end computer-vision systems in Python and the UIs that operate them.  
 PyTorch/ONNX/OpenCV for training and real-time inference. React/JS for clean, responsive front ends.
 
-[Email](mailto:khayal.aghazada.x@gmail.com) · [GitHub](https://github.com/Khayal-Aghazada) · [LinkedIn](#)
+[Email](mailto:khayal.aghazada.x@gmail.com) · [GitHub](https://github.com/Khayal-Aghazada) · [LinkedIn](https://www.linkedin.com/in/khayal-aghazada-738990301/)
 
 ---
 

@@ -23,46 +23,47 @@ PyTorch/ONNX/OpenCV for training and real-time inference. React/JS for clean, re
 ---
 
 ## Selected Projects
-Fatigue-Detection-System · Computer Vision
-Real-time pipeline with OpenCV/MediaPipe; computes eye-aspect ratio and head pose; raises alerts.
-CLI for webcam/video, thresholds, and logging; clear README and demo assets.
-Repo: https://github.com/Khayal-Aghazada/Fatigue-Detection-System
 
-Handwritten-Digit-Recognition · PyTorch
-CNN training and inference with dataset loaders, augmentation, and evaluation metrics.
-Saves best checkpoint; simple predict script and reproducible project layout.
-Repo: https://github.com/Khayal-Aghazada/handwritten-digit-recognition-model
+**Fatigue-Detection-System · Computer Vision**  
+Real-time pipeline with OpenCV/MediaPipe; computes eye-aspect ratio and head pose; raises alerts.  
+CLI for webcam/video, thresholds, and logging; clear README and demo assets.  
+Repo: [Fatigue-Detection-System](https://github.com/Khayal-Aghazada/Fatigue-Detection-System)
 
-Garbage-Classification · Deep Learning
-Image classification for waste categories with PyTorch data loaders and augmentation.
-Training scripts, evaluation metrics, and reproducible project layout.
-Repo: https://github.com/Khayal-Aghazada/garbage-classification
+**Handwritten-Digit-Recognition · PyTorch**  
+CNN training and inference with dataset loaders, augmentation, and evaluation metrics.  
+Saves best checkpoint; simple predict script and reproducible project layout.  
+Repo: [handwritten-digit-recognition-model](https://github.com/Khayal-Aghazada/handwritten-digit-recognition-model)
 
-Color-Gated-Object-Removal · Computer Vision
-HSV masking with morphology to remove target-colored objects from images/video.
-Adjustable thresholds; simple CLI for webcam or file input.
-Repo: https://github.com/Khayal-Aghazada/color-gated-object-removal
+**Garbage-Classification · Deep Learning**  
+Image classification for waste categories with PyTorch data loaders and augmentation.  
+Training scripts, evaluation metrics, and reproducible project layout.  
+Repo: [garbage-classification](https://github.com/Khayal-Aghazada/garbage-classification)
 
-Vehicle-Counter-CV · Computer Vision
-Detection plus tracking with line-based counting on road footage.
-OpenCV pipeline, ROI selection, and CSV logging of counts.
-Repo: https://github.com/Khayal-Aghazada/vehicle-counter-cv
+**Color-Gated-Object-Removal · Computer Vision**  
+HSV masking with morphology to remove target-colored objects from images/video.  
+Adjustable thresholds; simple CLI for webcam or file input.  
+Repo: [color-gated-object-removal](https://github.com/Khayal-Aghazada/color-gated-object-removal)
 
-Django Chat Site · Messaging
-Auth, rooms, and live messaging via Django Channels; mobile-friendly UI.
-Ready to extend with Redis channel layer for production.
-Repo: https://github.com/Khayal-Aghazada/django-chat-site
+**Vehicle-Counter-CV · Computer Vision**  
+Detection plus tracking with line-based counting on road footage.  
+OpenCV pipeline, ROI selection, and CSV logging of counts.  
+Repo: [vehicle-counter-cv](https://github.com/Khayal-Aghazada/vehicle-counter-cv)
 
-Bolt App · Full-stack Sample
-Account CRUD with protected routes; REST to a small Python backend.
-Responsive UI, validated forms, and error handling; documented setup/run.
-Repo: https://github.com/Khayal-Aghazada/bolt-app
+**Django Chat Site · Messaging**  
+Auth, rooms, and live messaging via Django Channels; mobile-friendly UI.  
+Ready to extend with Redis channel layer for production.  
+Repo: [django-chat-site](https://github.com/Khayal-Aghazada/django-chat-site)
 
-Meal Recipe Site · Front-End
-Semantic HTML/CSS layout with responsive design and print stylesheet.
-Deployed on GitHub Pages.
-Live: https://khayal-aghazada.github.io/mealReceipt-website-template/
-Repo: https://github.com/Khayal-Aghazada/mealReceipt-website-template
+**Bolt App · Full-stack Sample**  
+Account CRUD with protected routes; REST to a small Python backend.  
+Responsive UI, validated forms, and error handling; documented setup/run.  
+Repo: [bolt-app](https://github.com/Khayal-Aghazada/bolt-app)
+
+**Meal Recipe Site · Front-End**  
+Semantic HTML/CSS layout with responsive design and print stylesheet.  
+Deployed on GitHub Pages.  
+Live: [mealReceipt-website-template](https://khayal-aghazada.github.io/mealReceipt-website-template/)  
+Repo: [mealReceipt-website-template](https://github.com/Khayal-Aghazada/mealReceipt-website-template)
 
 ---
 

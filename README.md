@@ -14,11 +14,54 @@ PyTorch/ONNX/OpenCV for training and real-time inference. React/JS for clean, re
 ---
 
 ## Tech Stack
-**Python:** PyTorch · ONNX Runtime · OpenCV · scikit-learn · NumPy · Pandas  
-**Serving/Tools:** FastAPI · Flask · Docker · W&B · pytest · pre-commit · Jupyter · Git/GitHub  
-**Front End:** React · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind (basics) · React Router  
-**Data & Formats:** REST · JSON · CSV/Parquet  
-**DevOps basics:** GitHub Actions (lint/test), GitHub Pages (demos)
+
+### Python
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="32"/>
+  <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?logo=onnx&logoColor=white" alt="ONNX Runtime" height="20"/>
+</p>
+
+### Serving / Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="32"/>
+  <img src="https://img.shields.io/badge/W%26B-FFBE00?logo=weightsandbiases&logoColor=black" alt="Weights & Biases" height="20"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" alt="pytest" height="20"/>
+  <img src="https://img.shields.io/badge/pre--commit-FAB040?logo=pre-commit&logoColor=black" alt="pre-commit" height="20"/>
+</p>
+
+### Front End
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" height="32"/>
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white" alt="React Router" height="20"/>
+</p>
+
+### Data & Formats
+<p>
+  <img src="https://img.shields.io/badge/REST-0B6A9F" alt="REST" height="20"/>
+  <img src="https://img.shields.io/badge/JSON-333333?logo=json&logoColor=white" alt="JSON" height="20"/>
+  <img src="https://img.shields.io/badge/CSV/Parquet-4B8BBE" alt="CSV/Parquet" height="20"/>
+</p>
+
+### DevOps basics
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" height="20"/>
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white" alt="GitHub Pages" height="20"/>
+</p>
+
 
 ---
 

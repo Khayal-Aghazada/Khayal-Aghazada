@@ -67,82 +67,39 @@ PyTorch/ONNX/OpenCV for training and real-time inference. React/JS for clean, re
 
 ## Selected Projects
 
-**Fatigue-Detection-System · Computer Vision**  
-Real-time OpenCV/MediaPipe pipeline for drowsiness. Computes EAR and head pose. Triggers alerts.  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="20" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/MediaPipe-00C7B7?logo=google&logoColor=white" height="20" alt="MediaPipe"/>
-</p>
+🔍 **Fatigue-Detection-System · Computer Vision**  
+Real-time OpenCV/MediaPipe pipeline for drowsiness. Computes EAR and head pose and triggers alerts.  
+CLI for webcam/video thresholding and logging. README + demo assets.  
 Repo: https://github.com/Khayal-Aghazada/Fatigue-Detection-System
 
-**Handwritten-Digit-Recognition · PyTorch**  
-CNN training and inference with loaders, augmentation, and metrics. Saves best checkpoint.  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="20" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" alt="Pandas"/>
-</p>
+✏️ **Handwritten-Digit-Recognition · PyTorch**  
+CNN training/inference with augmentation and metrics. Saves best checkpoint. Predict script included.  
 Repo: https://github.com/Khayal-Aghazada/handwritten-digit-recognition-model
 
-**Garbage-Classification · Deep Learning**  
-Waste image classification with augmentation, training scripts, and evaluation.  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="20" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="20" alt="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="20" alt="scikit-learn"/>
-</p>
+♻️ **Garbage-Classification · Deep Learning**  
+Image classification for waste types using PyTorch. Includes augmentation, training scripts, evaluations.  
 Repo: https://github.com/Khayal-Aghazada/garbage-classification
 
-**Color-Gated-Object-Removal · Computer Vision**  
-HSV color gating and morphology to remove targeted objects in images/video.  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="20" alt="OpenCV"/>
-</p>
+🚫 **Color-Gated-Object-Removal · Computer Vision**  
+HSV gating + morphology to filter out colored objects in images/video. Adjustable thresholds. CLI tool.  
 Repo: https://github.com/Khayal-Aghazada/color-gated-object-removal
 
-**Vehicle-Counter-CV · Computer Vision**  
-Detection + tracking with line-based counting. ROI selection and CSV logging.  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="20" alt="OpenCV"/>
-</p>
+🚗 **Vehicle-Counter-CV · Computer Vision**  
+Detection + tracking pipeline with line-based vehicle counting. ROI and CSV logging.  
 Repo: https://github.com/Khayal-Aghazada/vehicle-counter-cv
 
-**Django Chat Site · Messaging**  
-Auth, rooms, live messaging via Channels. Mobile-friendly UI.  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" alt="Django"/>
-  <img src="https://img.shields.io/badge/Django%20Channels-44B78B?logo=django&logoColor=white" height="20" alt="Django Channels"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="20" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="20" alt="CSS3"/>
-</p>
+💬 **Django Chat Site · Messaging**  
+Django Channels app with authentication, chat rooms, and real-time messaging. Mobile responsive.  
 Repo: https://github.com/Khayal-Aghazada/django-chat-site
 
-**Bolt App · Full-stack Sample**  
-Account CRUD, protected routes, REST to Python backend.  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python"/>
-  <img src="https://img.shields.io/badge/REST-0B6A9F" height="20" alt="REST"/>
-</p>
+🗂️ **Bolt App · Full-stack Sample**  
+React frontend & Python REST backend. Account CRUD, validation, protected routes. Documented.  
 Repo: https://github.com/Khayal-Aghazada/bolt-app
 
-**Meal Recipe Site · Front-End**  
-Semantic HTML/CSS, responsive design, print stylesheet.  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="20" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="20" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript"/>
-</p>
+🍽️ **Meal Recipe Site · Front-End**  
+Responsive HTML/CSS site with print stylesheet. Deployed via GitHub Pages.  
 Live: https://khayal-aghazada.github.io/mealReceipt-website-template/  
 Repo: https://github.com/Khayal-Aghazada/mealReceipt-website-template
-
 
 ---
 

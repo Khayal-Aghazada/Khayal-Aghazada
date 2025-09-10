@@ -22,49 +22,47 @@ PyTorch/ONNX/OpenCV for training and real-time inference. React/JS for clean, re
 
 ---
 
-Selected Projects
-
+## Selected Projects
 Fatigue-Detection-System · Computer Vision
 Real-time pipeline with OpenCV/MediaPipe; computes eye-aspect ratio and head pose; raises alerts.
 CLI for webcam/video, thresholds, and logging; clear README and demo assets.
-Repo: Fatigue-Detection-System
+Repo: https://github.com/Khayal-Aghazada/Fatigue-Detection-System
 
 Handwritten-Digit-Recognition · PyTorch
 CNN training and inference with dataset loaders, augmentation, and evaluation metrics.
 Saves best checkpoint; simple predict script and reproducible project layout.
-Repo: handwritten-digit-recognition-model
+Repo: https://github.com/Khayal-Aghazada/handwritten-digit-recognition-model
 
 Garbage-Classification · Deep Learning
-Image classification pipeline for recyclable vs. non-recyclable waste.
-Built with PyTorch; includes training scripts, preprocessing, and evaluation.
-Repo: garbage-classification
+Image classification for waste categories with PyTorch data loaders and augmentation.
+Training scripts, evaluation metrics, and reproducible project layout.
+Repo: https://github.com/Khayal-Aghazada/garbage-classification
 
 Color-Gated-Object-Removal · Computer Vision
-HSV-based color masking with morphological operations to remove targeted objects.
-Supports real-time video input and adjustable gating thresholds.
-Repo: color-gated-object-removal
+HSV masking with morphology to remove target-colored objects from images/video.
+Adjustable thresholds; simple CLI for webcam or file input.
+Repo: https://github.com/Khayal-Aghazada/color-gated-object-removal
 
 Vehicle-Counter-CV · Computer Vision
-Object detection with tracking for vehicle counting on road footage.
-Implements line-based counting logic with OpenCV and pre-trained models.
-Repo: vehicle-counter-cv
+Detection plus tracking with line-based counting on road footage.
+OpenCV pipeline, ROI selection, and CSV logging of counts.
+Repo: https://github.com/Khayal-Aghazada/vehicle-counter-cv
 
 Django Chat Site · Messaging
 Auth, rooms, and live messaging via Django Channels; mobile-friendly UI.
 Ready to extend with Redis channel layer for production.
-Repo: django-chat-site
+Repo: https://github.com/Khayal-Aghazada/django-chat-site
 
 Bolt App · Full-stack Sample
 Account CRUD with protected routes; REST to a small Python backend.
 Responsive UI, validated forms, and error handling; documented setup/run.
-Repo: bolt-app
+Repo: https://github.com/Khayal-Aghazada/bolt-app
 
 Meal Recipe Site · Front-End
 Semantic HTML/CSS layout with responsive design and print stylesheet.
 Deployed on GitHub Pages.
-Live: mealReceipt-website-template
-
-Repo: mealReceipt-website-template
+Live: https://khayal-aghazada.github.io/mealReceipt-website-template/
+Repo: https://github.com/Khayal-Aghazada/mealReceipt-website-template
 
 ---
 

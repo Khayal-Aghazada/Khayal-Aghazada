@@ -15,52 +15,44 @@ PyTorch/ONNX/OpenCV for training and real-time inference. React/JS for clean, re
 
 ## Tech Stack
 
-### Python
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="32"/>
-  <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?logo=onnx&logoColor=white" alt="ONNX Runtime" height="20"/>
-</p>
+### Core ML
+![PyTorch](https://img.shields.io/badge/PyTorch-000?logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-000?logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000?logo=scikitlearn&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-000?logo=onnx&logoColor=white)
 
-### Serving / Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="32"/>
-  <img src="https://img.shields.io/badge/W%26B-FFBE00?logo=weightsandbiases&logoColor=black" alt="Weights & Biases" height="20"/>
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" alt="pytest" height="20"/>
-  <img src="https://img.shields.io/badge/pre--commit-FAB040?logo=pre-commit&logoColor=black" alt="pre-commit" height="20"/>
-</p>
+### Python & Data
+![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-000?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000?logo=pandas&logoColor=white)
+
+### Serving & MLOps
+![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-000?logo=jupyter&logoColor=white)
+![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-000?logo=weightsandbiases&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-000?logo=pytest&logoColor=white)
+![pre-commit](https://img.shields.io/badge/pre--commit-000?logo=pre-commit&logoColor=white)
 
 ### Front End
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" height="32"/>
-  <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white" alt="React Router" height="20"/>
-</p>
+![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?logo=tailwindcss&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-000?logo=reactrouter&logoColor=white)
 
 ### Data & Formats
-<p>
-  <img src="https://img.shields.io/badge/REST-0B6A9F" alt="REST" height="20"/>
-  <img src="https://img.shields.io/badge/JSON-333333?logo=json&logoColor=white" alt="JSON" height="20"/>
-  <img src="https://img.shields.io/badge/CSV/Parquet-4B8BBE" alt="CSV/Parquet" height="20"/>
-</p>
+![REST](https://img.shields.io/badge/REST-000)
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=white)
+![CSV/Parquet](https://img.shields.io/badge/CSV%20%2F%20Parquet-000)
 
-### DevOps basics
-<p>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" height="20"/>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white" alt="GitHub Pages" height="20"/>
-</p>
+### DevOps Basics
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?logo=githubactions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-000?logo=githubpages&logoColor=white)
 
 
 ---

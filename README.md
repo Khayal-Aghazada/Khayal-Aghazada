@@ -41,6 +41,7 @@ PyTorch/ONNX/OpenCV for training and real-time inference. React/JS for clean, re
 ![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=white)
+![DevExpress]https://img.shields.io/badge/DevExpress-000?logo=devexpress&logoColor=white
 ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-000?logo=tailwindcss&logoColor=white)
 ![React Router](https://img.shields.io/badge/React%20Router-000?logo=reactrouter&logoColor=white)

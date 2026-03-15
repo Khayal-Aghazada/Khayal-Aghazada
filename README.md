@@ -1,4 +1,4 @@
-# Khayal Aghazada — ML/CV Engineer · Front-End Developer
+# Khayal Aghazada — ML/CV Engineer · Full Stack Developer
 
 I build end-to-end computer-vision systems in Python and the UIs that operate them.  
 PyTorch/ONNX/OpenCV for training and real-time inference. React/JS for clean, responsive front ends.
@@ -9,7 +9,7 @@ PyTorch/ONNX/OpenCV for training and real-time inference. React/JS for clean, re
 
 ## Focus
 - **Computer Vision & ML:** dataset curation, training/eval (AUC/AUPRC), ONNX/real-time inference, FastAPI services.
-- **Front End:** React apps, API integration, routing/forms, accessible responsive UI, basic testing and CI.
+- **Full Stack:** React apps, API integration, routing/forms, accessible responsive UI, basic testing and CI.
 
 ---
 

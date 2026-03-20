@@ -15,46 +15,33 @@ PyTorch/ONNX/OpenCV for training and real-time inference. React/JS for clean, re
 
 ## Tech Stack
 
-### Core ML
-![PyTorch](https://img.shields.io/badge/PyTorch-000?logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-000?logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000?logo=scikitlearn&logoColor=white)
-![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-000?logo=onnx&logoColor=white)
+Machine Learning & Computer Vision
 
-### Python & Data
-![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-000?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-000?logo=pandas&logoColor=white)
+PyTorch · TensorFlow · scikit-learn · OpenCV · MediaPipe · ONNX
 
-### Serving & MLOps
-![FastAPI](https://img.shields.io/badge/FastAPI-000?logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-000?logo=jupyter&logoColor=white)
-![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-000?logo=weightsandbiases&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-000?logo=pytest&logoColor=white)
-![pre-commit](https://img.shields.io/badge/pre--commit-000?logo=pre-commit&logoColor=white)
+Data Processing & Scientific Computing
 
-### Front End
-![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=white)
-![DevExpress](https://img.shields.io/badge/DevExpress-000?logo=devexpress&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-000?logo=tailwindcss&logoColor=white)
-![React Router](https://img.shields.io/badge/React%20Router-000?logo=reactrouter&logoColor=white)
+Python · NumPy · Pandas · Matplotlib
 
-### Data & Formats
-![REST](https://img.shields.io/badge/REST-000)
-![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=white)
-![CSV/Parquet](https://img.shields.io/badge/CSV%20%2F%20Parquet-000)
+Tracking & Vision Systems
 
-### DevOps Basics
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?logo=githubactions&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-000?logo=githubpages&logoColor=white)
+Object Detection (YOLO) · Multi-Object Tracking (SORT, Kalman Filter, IoU Matching) · Optical Flow · Feature Detection · Semantic Segmentation · Depth Estimation · SLAM
 
+Backend & Systems
+
+Flask · Django · REST APIs · Multithreading · Parallel Processing
+
+Tools & MLOps
+
+Git · GitHub · Docker · Jupyter · Weights & Biases · pytest
+
+Data & Formats
+
+JSON · CSV
+
+Frontend
+
+React · JavaScript · HTML5 · CSS3 · Tailwind
 
 ---
 
@@ -114,4 +101,4 @@ Repo: https://github.com/Khayal-Aghazada/mealReceipt-website-template
 
 ## Contact
 - **Email:** khayal.aghazada.x@gmail.com  
-- **Location:** Baku, Azerbaijan · UTC+03
+- **Location:** Vienna, Austria · UTC+01

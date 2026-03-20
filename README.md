@@ -8,40 +8,30 @@ PyTorch/ONNX/OpenCV for training and real-time inference. React/JS for clean, re
 ---
 
 ## Focus
-- **Computer Vision & ML:** dataset curation, training/eval (AUC/AUPRC), ONNX/real-time inference, FastAPI services.
-- **Full Stack:** React apps, API integration, routing/forms, accessible responsive UI, basic testing and CI.
+Computer Vision and Machine Learning enthusiast with hands-on experience building projects using PyTorch, OpenCV, and deep learning models. Developed applications involving object detection, tracking, and vision-based pipelines, along with backend integration using Flask and Django. Familiar with designing end-to-end workflows that combine machine learning models with REST APIs and database systems. Comfortable working with Python, SQL, and core ML tools to build and experiment with scalable applications. Interested in computer vision, backend development, and deploying practical ML systems.
 
 ---
 
 ## Tech Stack
 
-Machine Learning & Computer Vision
+### Computer Vision & Machine Learning
+`PyTorch` `TensorFlow` `scikit-learn` `OpenCV` `MediaPipe` `ONNX`
 
-PyTorch · TensorFlow · scikit-learn · OpenCV · MediaPipe · ONNX
+### Vision Systems
+`YOLO` `SORT` `Kalman Filter` `IoU Matching`  
+`Optical Flow` `Feature Detection` `Segmentation` `Depth Estimation`
 
-Data Processing & Scientific Computing
+### Backend & Integration
+`Flask` `Django` `REST APIs` `ML Integration` `Databases`
 
-Python · NumPy · Pandas · Matplotlib
+### Data & Programming
+`Python` `SQL` `NumPy` `Pandas` `Matplotlib`
 
-Tracking & Vision Systems
+### Tools
+`Git` `GitHub` `Docker` `Jupyter` `Weights & Biases` `pytest`
 
-Object Detection (YOLO) · Multi-Object Tracking (SORT, Kalman Filter, IoU Matching) · Optical Flow · Feature Detection · Semantic Segmentation · Depth Estimation · SLAM
-
-Backend & Systems
-
-Flask · Django · REST APIs · Multithreading · Parallel Processing
-
-Tools & MLOps
-
-Git · GitHub · Docker · Jupyter · Weights & Biases · pytest
-
-Data & Formats
-
-JSON · CSV
-
-Frontend
-
-React · JavaScript · HTML5 · CSS3 · Tailwind
+### Frontend (Basic)
+`React` `JavaScript` `HTML` `CSS` `Tailwind`
 
 ---
 

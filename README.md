@@ -30,8 +30,8 @@ Computer Vision and Machine Learning enthusiast with hands-on experience buildin
 ### Tools
 `Git` `GitHub` `Docker` `Jupyter` `Weights & Biases` `pytest`
 
-### Frontend (Basic)
-`React` `JavaScript` `HTML` `CSS` `Tailwind`
+### Frontend
+`React` `JavaScript` `HTML5` `CSS3` `Tailwind`
 
 ---
 

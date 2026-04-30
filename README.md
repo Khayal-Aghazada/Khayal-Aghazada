@@ -4,7 +4,7 @@ Building real-time computer vision systems, ML pipelines, and backend-driven AI 
 
 Focused on developing practical, production-oriented solutions involving object detection, tracking, anomaly detection, automation, and AI-powered workflows.
 
-[Email](mailto:khayal.aghazada.x@gmail.com) · [GitHub](https://github.com/x-x) · [LinkedIn](https://www.linkedin.com/in/khayal-aghazada-738990301/)
+[Email](mailto:khayal.aghazada.x@gmail.com) · [GitHub](https://github.com/Khayal-Aghazada) · [LinkedIn](https://www.linkedin.com/in/khayal-aghazada-738990301/)
 
 ---
 

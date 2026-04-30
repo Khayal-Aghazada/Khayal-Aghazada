@@ -1,94 +1,104 @@
-# Khayal Aghazada — ML/CV Engineer · Full Stack Developer
+# Khayal Aghazada — Machine Learning & Computer Vision Engineer
 
-I build end-to-end computer-vision systems in Python and the UIs that operate them.  
-PyTorch/ONNX/OpenCV for training and real-time inference. React/JS for clean, responsive front ends.
+Building real-time computer vision systems, ML pipelines, and backend-driven AI applications using Python, PyTorch, OpenCV, and modern web technologies.
 
-[Email](mailto:khayal.aghazada.x@gmail.com) · [GitHub](https://github.com/Khayal-Aghazada) · [LinkedIn](https://www.linkedin.com/in/khayal-aghazada-738990301/)
+Focused on developing practical, production-oriented solutions involving object detection, tracking, anomaly detection, automation, and AI-powered workflows.
+
+[Email](mailto:khayal.aghazada.x@gmail.com) · [GitHub](https://github.com/x-x) · [LinkedIn](https://www.linkedin.com/in/khayal-aghazada-738990301/)
 
 ---
 
-## Focus
-Computer Vision and Machine Learning enthusiast with hands-on experience building projects using PyTorch, OpenCV, and deep learning models. Developed applications involving object detection, tracking, and vision-based pipelines, along with backend integration using Flask and Django. Familiar with designing end-to-end workflows that combine machine learning models with REST APIs and database systems. Comfortable working with Python, SQL, and core ML tools to build and experiment with scalable applications. Interested in computer vision, backend development, and deploying practical ML systems.
+## About
+
+I develop machine learning and computer vision systems with a strong focus on real-time processing, backend integration, and scalable application design.
+
+My work includes:
+
+* Real-time detection and monitoring systems
+* Deep learning pipelines using PyTorch and OpenCV
+* ML-integrated backend services and REST APIs
+* Data-driven dashboards and automation tools
+* End-to-end full-stack applications using Python and React
+
+I am particularly interested in:
+
+* Computer Vision
+* AI Agents & Automation
+* Real-Time ML Systems
+* Backend Engineering
+* Production-Oriented AI Workflows
 
 ---
 
 ## Tech Stack
 
-### Computer Vision & Machine Learning
-`PyTorch` `TensorFlow` `scikit-learn` `OpenCV` `MediaPipe` `ONNX`
+### Machine Learning & Computer Vision
 
-### Vision Systems
-`YOLO` `SORT` `Kalman Filter` `IoU Matching`  
-`Optical Flow` `Feature Detection` `Segmentation` `Depth Estimation`
+`Python` `PyTorch` `TensorFlow` `OpenCV` `scikit-learn` `NumPy` `Pandas`
 
-### Backend & Integration
-`Flask` `Django` `REST APIs` `ML Integration` `Databases`
+### Deep Learning & Vision
 
-### Data & Programming
-`Python` `SQL` `NumPy` `Pandas` `Matplotlib`
+`YOLO` `CNNs` `Object Detection` `Tracking` `OCR` `Image Processing` `Video Processing`
 
-### Tools
-`Git` `GitHub` `Docker` `Jupyter` `Weights & Biases` `pytest`
+### Backend & APIs
+
+`Flask` `Django` `REST APIs` `SQLAlchemy` `FastAPI`
 
 ### Frontend
+
 `React` `JavaScript` `HTML5` `CSS3` `Tailwind`
+
+### Databases & Tools
+
+`PostgreSQL` `Oracle SQL` `Git` `Docker` `Pytest`
 
 ---
 
 ## Selected Projects
 
-🔍 **Fatigue-Detection-System · Computer Vision**  
-Real-time OpenCV/MediaPipe pipeline for drowsiness. Computes EAR and head pose and triggers alerts.  
-CLI for webcam/video thresholding and logging. README + demo assets.  
-Repo: https://github.com/Khayal-Aghazada/Fatigue-Detection-System
+### Driver Fatigue Detection System
 
-✏️ **Handwritten-Digit-Recognition · PyTorch**  
-CNN training/inference with augmentation and metrics. Saves best checkpoint. Predict script included.  
-Repo: https://github.com/Khayal-Aghazada/handwritten-digit-recognition-model
+Real-time computer vision system for driver monitoring using OpenCV and facial landmark analysis. Implemented Eye Aspect Ratio (EAR)-based fatigue detection with live alert triggering and continuous video stream processing.
 
-♻️ **Garbage-Classification · Deep Learning**  
-Image classification for waste types using PyTorch. Includes augmentation, training scripts, evaluations.  
-Repo: https://github.com/Khayal-Aghazada/garbage-classification
+### Garbage Classification System
 
-🚫 **Color-Gated-Object-Removal · Computer Vision**  
-HSV gating + morphology to filter out colored objects in images/video. Adjustable thresholds. CLI tool.  
-Repo: https://github.com/Khayal-Aghazada/color-gated-object-removal
+Deep learning-based image classification pipeline using TensorFlow and MobileNetV2 for automated waste categorization. Includes preprocessing, training, evaluation, and inference workflows.
 
-🚗 **Vehicle-Counter-CV · Computer Vision**  
-Detection + tracking pipeline with line-based vehicle counting. ROI and CSV logging.  
-Repo: https://github.com/Khayal-Aghazada/vehicle-counter-cv
+### Handwritten Digit Recognition System
 
-💬 **Django Chat Site · Messaging**  
-Django Channels app with authentication, chat rooms, and real-time messaging. Mobile responsive.  
-Repo: https://github.com/Khayal-Aghazada/django-chat-site
+End-to-end CNN-based digit recognition system built with PyTorch and Flask. Includes custom preprocessing pipeline, real-time prediction interface, and model inference integration.
 
-🗂️ **Bolt App · Full-stack Sample**  
-React frontend & Python REST backend. Account CRUD, validation, protected routes. Documented.  
-Repo: https://github.com/Khayal-Aghazada/bolt-app
+### IT Project KPI Tracker
 
-🍽️ **Meal Recipe Site · Front-End**  
-Responsive HTML/CSS site with print stylesheet. Deployed via GitHub Pages.  
-Live: https://khayal-aghazada.github.io/mealReceipt-website-template/  
-Repo: https://github.com/Khayal-Aghazada/mealReceipt-website-template
+Full-stack KPI tracking and reporting platform for monitoring project metrics, workload distribution, and task performance using Python-based backend services and dashboard visualization.
+
+### EV Charging Network Dashboard
+
+Data-driven monitoring dashboard for EV charging infrastructure, including KPI tracking, usage analytics, and real-time operational insights.
 
 ---
 
-## How I work
-- Module-first design: small, reusable Python/JS packages with clear interfaces (no copy-paste).
-- Reproducibility: configs, fixed seeds, CLI entry points (train/eval/infer), deterministic builds.
-- Quality gates: lint/format and tests on push (GitHub Actions); type hints where useful.
-- UX discipline: accessible, responsive UIs with proper loading/error states and API retries.
+## Development Approach
 
+* Structured, modular, and maintainable system design
+* Focus on reproducibility, scalability, and clean architecture
+* API-first backend development with integration-ready services
+* Real-time processing and performance optimization
+* Continuous learning and rapid adaptation to new AI frameworks and workflows
 
 ---
 
-## Currently working
-- Modularising computer-vision tools into `cv_lib` (detection, embeddings, indexing, I/O, drawing).
-- Targets: stable APIs, unit tests + CI, FastAPI endpoints, ONNX Runtime (CPU/GPU), docs, and pip packaging.
+## Currently Exploring
 
+* AI Agents & Agentic Workflows
+* RAG Systems & Vector Databases
+* ML System Deployment & MLOps
+* Real-Time AI Applications
+* Advanced Computer Vision Architectures
 
 ---
 
 ## Contact
-- **Email:** khayal.aghazada.x@gmail.com  
-- **Location:** Vienna, Austria · UTC+01
+
+Vienna, Austria · UTC+01
+Open to internships, junior, and research-oriented opportunities across Europe.

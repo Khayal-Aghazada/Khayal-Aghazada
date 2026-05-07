@@ -4,7 +4,7 @@ Building real-time computer vision systems, ML pipelines, and backend-driven AI 
 
 Focused on developing practical, production-oriented solutions involving object detection, tracking, anomaly detection, automation, and AI-powered workflows.
 
-[Email](mailto:khayal.aghazada.x@gmail.com) · [GitHub](https://github.com/Khayal-Aghazada) · [LinkedIn](https://www.linkedin.com/in/khayal-aghazada-738990301/)
+[Email](mailto:khayal.aghazada.x@gmail.com) · [Portfolio](https://khayal-aghazada.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/khayal-aghazada-738990301/)
 
 ---
 
@@ -97,8 +97,6 @@ Data-driven monitoring dashboard for EV charging infrastructure, including KPI t
 * Advanced Computer Vision Architectures
 
 ---
-
-## Contact
 
 Vienna, Austria · UTC+01
 Open to internships, junior, and research-oriented opportunities across Europe.

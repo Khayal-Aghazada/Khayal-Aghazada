@@ -112,9 +112,9 @@ I've shipped backend projects across startups, freelance work, and personal buil
 
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/khayal-aghazada-738990301/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khayal-aghazada-738990301/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khayal.aghazada.x@gmail.com)
-[![Portfolio](https://khayal-aghazada.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://khayal-aghazada.github.io/portfolio/)
 
 </div>
 

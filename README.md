@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1d9e75&height=200&section=header&text=Hi%2C%20I'm%20[Your%20Name]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Junior%20Backend%20Developer%20%7C%20Python%20%7C%20Computer%20Vision&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1d9e75&height=200&section=header&text=Hi%2C%20I'm%20[Khayal%20Aghazada]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Junior%20Backend%20Developer%20%7C%20Python%20%7C%20Computer%20Vision&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -112,9 +112,9 @@ I've shipped backend projects across startups, freelance work, and personal buil
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F6E56?style=for-the-badge&logo=globe&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://www.linkedin.com/in/khayal-aghazada-738990301/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khayal.aghazada.x@gmail.com)
+[![Portfolio](https://khayal-aghazada.github.io/portfolio/)
 
 </div>
 

@@ -10,13 +10,7 @@
 
 I'm a junior backend developer and M.Sc. Computer Science (Data Science) student at the **University of Vienna**, building REST APIs, real-time applications, and computer vision pipelines in Python.
 
-I've shipped backend projects across startups, freelance work, and personal builds — from real-time WebSocket chat apps to CV-powered fatigue detection systems.
-
-- 🎓 M.Sc. Computer Science (Data Science) — University of Vienna
-- 💼 Previously: ML Engineer Intern @ Skolyn · Co-Founder & Backend Dev @ CWB · Python Mentor
-- 🔭 Currently working on: sharpening backend architecture & ML experimentation skills
-- 🌱 Exploring: FastAPI, Docker, and data science tooling
-- 📫 Open to: **junior backend or software engineering roles**
+I've shipped backend projects across startups, freelance work, and personal builds — from real-time WebSocket chat apps to CV-powered fatigue detection systems. Currently pursuing an M.Sc. in Computer Science (Data Science) at the **University of Vienna** and open to junior backend or software engineering roles.
 
 ---
 
@@ -107,28 +101,6 @@ I've shipped backend projects across startups, freelance work, and personal buil
     </td>
   </tr>
 </table>
-
----
-
-## 💼 Experience Highlights
-
-```text
-ML Engineer Intern         Skolyn                    Jun 2025 – Dec 2025
-Co-Founder & Backend Dev   CWB Startup               Oct 2023 – Mar 2025
-Python Mentor              Freelance                  Aug 2024 – Dec 2024
-Front-End Mentor           Freelance                  Apr 2024 – Aug 2024
-```
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" />
-
-</div>
 
 ---
 

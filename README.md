@@ -1,102 +1,147 @@
-# Khayal Aghazada — Machine Learning & Computer Vision Engineer
+<div align="center">
 
-Building real-time computer vision systems, ML pipelines, and backend-driven AI applications using Python, PyTorch, OpenCV, and modern web technologies.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1d9e75&height=200&section=header&text=Hi%2C%20I'm%20[Your%20Name]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Junior%20Backend%20Developer%20%7C%20Python%20%7C%20Computer%20Vision&descAlignY=58&descSize=18" width="100%"/>
 
-Focused on developing practical, production-oriented solutions involving object detection, tracking, anomaly detection, automation, and AI-powered workflows.
+</div>
 
-[Email](mailto:khayal.aghazada.x@gmail.com) · [Portfolio](https://khayal-aghazada.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/khayal-aghazada-738990301/)
+<br/>
 
----
+## About Me
 
-## About
+I'm a junior backend developer and M.Sc. Computer Science (Data Science) student at the **University of Vienna**, building REST APIs, real-time applications, and computer vision pipelines in Python.
 
-I develop machine learning and computer vision systems with a strong focus on real-time processing, backend integration, and scalable application design.
+I've shipped backend projects across startups, freelance work, and personal builds — from real-time WebSocket chat apps to CV-powered fatigue detection systems.
 
-My work includes:
-
-* Real-time detection and monitoring systems
-* Deep learning pipelines using PyTorch and OpenCV
-* ML-integrated backend services and REST APIs
-* Data-driven dashboards and automation tools
-* End-to-end full-stack applications using Python and React
-
-I am particularly interested in:
-
-* Computer Vision
-* AI Agents & Automation
-* Real-Time ML Systems
-* Backend Engineering
-* Production-Oriented AI Workflows
+- 🎓 M.Sc. Computer Science (Data Science) — University of Vienna
+- 💼 Previously: ML Engineer Intern @ Skolyn · Co-Founder & Backend Dev @ CWB · Python Mentor
+- 🔭 Currently working on: sharpening backend architecture & ML experimentation skills
+- 🌱 Exploring: FastAPI, Docker, and data science tooling
+- 📫 Open to: **junior backend or software engineering roles**
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-### Machine Learning & Computer Vision
+**Proficient**
 
-`Python` `PyTorch` `TensorFlow` `OpenCV` `scikit-learn` `NumPy` `Pandas`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6B35?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Deep Learning & Vision
+**Familiar**
 
-`YOLO` `CNNs` `Object Detection` `Tracking` `OCR` `Image Processing` `Video Processing`
-
-### Backend & APIs
-
-`Flask` `Django` `REST APIs` `SQLAlchemy` `FastAPI`
-
-### Frontend
-
-`React` `JavaScript` `HTML5` `CSS3` `Tailwind`
-
-### Databases & Tools
-
-`PostgreSQL` `Oracle SQL` `Git` `Docker` `Pytest`
-
----
-
-## Selected Projects
-
-### Driver Fatigue Detection System
-
-Real-time computer vision system for driver monitoring using OpenCV and facial landmark analysis. Implemented Eye Aspect Ratio (EAR)-based fatigue detection with live alert triggering and continuous video stream processing.
-
-### Garbage Classification System
-
-Deep learning-based image classification pipeline using TensorFlow and MobileNetV2 for automated waste categorization. Includes preprocessing, training, evaluation, and inference workflows.
-
-### Handwritten Digit Recognition System
-
-End-to-end CNN-based digit recognition system built with PyTorch and Flask. Includes custom preprocessing pipeline, real-time prediction interface, and model inference integration.
-
-### IT Project KPI Tracker
-
-Full-stack KPI tracking and reporting platform for monitoring project metrics, workload distribution, and task performance using Python-based backend services and dashboard visualization.
-
-### EV Charging Network Dashboard
-
-Data-driven monitoring dashboard for EV charging infrastructure, including KPI tracking, usage analytics, and real-time operational insights.
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## Development Approach
+## 🚀 Featured Projects
 
-* Structured, modular, and maintainable system design
-* Focus on reproducibility, scalability, and clean architecture
-* API-first backend development with integration-ready services
-* Real-time processing and performance optimization
-* Continuous learning and rapid adaptation to new AI frameworks and workflows
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 Fatigue Detection System</h3>
+      <p>Real-time driver fatigue monitoring using webcam input, facial landmark extraction, and Eye Aspect Ratio (EAR) analysis. Built a full CV pipeline with filtering to reduce false positives from short blinks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Computer%20Vision-FF6B35?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 Real-Time Chat App</h3>
+      <p>Full-featured chat application with authentication, chat rooms, and real-time messaging via Django Channels and WebSockets. Persistent message storage backed by Oracle SQL.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 Document Validation System</h3>
+      <p>Computer vision pipeline for document validation using OCR and image processing. Designed structured outputs to make each validation step traceable and explainable.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OCR-4A90D9?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 IT Project KPI Tracker</h3>
+      <p>Dashboard for tracking project deadlines and workload distribution across teams. Built with a Python backend and data visualization layer.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dashboard-0F6E56?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>♻️ Garbage Classification Model</h3>
+      <p>Image classification model for waste categorization using TensorFlow. Includes data augmentation, training, and evaluation pipelines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <br/>
+      <p align="center" style="color: #888">More projects coming soon 🔨</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Currently Exploring
+## 💼 Experience Highlights
 
-* AI Agents & Agentic Workflows
-* RAG Systems & Vector Databases
-* ML System Deployment & MLOps
-* Real-Time AI Applications
-* Advanced Computer Vision Architectures
+```text
+ML Engineer Intern         Skolyn                    Jun 2025 – Dec 2025
+Co-Founder & Backend Dev   CWB Startup               Oct 2023 – Mar 2025
+Python Mentor              Freelance                  Aug 2024 – Dec 2024
+Front-End Mentor           Freelance                  Apr 2024 – Aug 2024
+```
 
 ---
 
-Vienna, Austria · UTC+01
-Open to internships, junior, and research-oriented opportunities across Europe.
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Get in Touch
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F6E56?style=for-the-badge&logo=globe&logoColor=white)](https://your-portfolio.com)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1d9e75&height=100&section=footer" width="100%"/>
+</div>

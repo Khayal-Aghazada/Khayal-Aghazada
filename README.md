@@ -95,9 +95,13 @@ I've shipped backend projects across startups, freelance work, and personal buil
       </p>
     </td>
     <td width="50%" valign="top">
-      <br/>
-      <br/>
-      <p align="center" style="color: #888">More projects coming soon 🔨</p>
+      <h3>✏️ Handwritten Digit Recognition</h3>
+      <p>End-to-end CNN trained from scratch on MNIST with a live "draw-and-guess" Flask web interface. Custom OpenCV preprocessing pipeline handles Base64 canvas input → threshold → crop → center → 28×28 resize for real-time predictions with confidence bars.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
